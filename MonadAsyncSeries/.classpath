@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="cats-core_2.11-1.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="cats-effect_2.11-0.5.jar"/>
+	<classpathentry kind="lib" path="cats-kernel_2.11-1.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="cats-macros_2.11-1.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="jctools-core-2.0.2.jar"/>
+	<classpathentry kind="lib" path="machinist_2.11-0.6.2.jar"/>
+	<classpathentry kind="lib" path="monix_2.11-3.0.0-8084549.jar"/>
+	<classpathentry kind="lib" path="monix-cats_2.11-2.3.2.jar"/>
+	<classpathentry kind="lib" path="monix-eval_2.11-3.0.0-8084549.jar"/>
+	<classpathentry kind="lib" path="monix-execution_2.11-3.0.0-8084549.jar"/>
+	<classpathentry kind="lib" path="monix-reactive_2.11-3.0.0-8084549.jar"/>
+	<classpathentry kind="lib" path="reactive-streams-1.0.1.jar"/>
+	<classpathentry kind="lib" path="scala-library-2.11.11.jar"/>
+	<classpathentry kind="lib" path="scala-reflect-2.11.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
